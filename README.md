@@ -6,6 +6,8 @@ Meu nome é João Pedro, utilizo em meus projetos:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro116)](https://github.com/joaopedro116/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro116&layout=pie)](https://github.com/joaopedro116/github-readme-stats)
+
 ## Minhas Habilidades: 
 
  <p align="left">
